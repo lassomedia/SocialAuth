@@ -1,4 +1,4 @@
-#import <OAuthCore/OAuthCore.h>
+#import "OAuthCore.h"
 #import <Social/Social.h>
 #import <QuartzCore/QuartzCore.h>
 #import "SAAccountStore.h"
